@@ -1,0 +1,7 @@
+{
+  "folders": [],
+  "settings": {
+    "vscode-janus-debug.uploadManually": ["typescriptShenime", "app", "this"],
+    "liveServer.settings.multiRootWorkspaceName": "React Course"
+  }
+}
