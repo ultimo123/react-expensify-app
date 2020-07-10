@@ -8,7 +8,7 @@
     "serve": "live-server public/",
     "build:dev": "webpack --watch",
     "dev-server": "webpack-dev-server",
-    "build:prod": "webpack -p --env production ",
+    "build:prod": "webpack -p --env production",
     "test": "jest --watch --config=jest.config.json",
     "start": "node server/server.js",
     "heroku-postbuild": "yarn run build:prod"
